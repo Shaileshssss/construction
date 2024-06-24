@@ -1,0 +1,11 @@
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.logo .icon__container,
+.logo .name {
+font-size: 2.0rem;
+color: var(--color-primary);
+/* font-weight: 600; */
+}
