@@ -19,8 +19,10 @@ Currently, two official plugins are available:
 #4. Our Team Page
 ![Screenshot 2024-06-26 143857](https://github.com/Shaileshssss/construction/assets/108980657/2fa8e1fc-8cfb-4382-a77e-1fc1d4a9d625)
 
+#5. Our Products
 ![Screenshot 2024-06-26 143956](https://github.com/Shaileshssss/construction/assets/108980657/f894c261-8282-458e-8a45-6107f21a7496)
 
+#6. Testimonial
 ![Screenshot 2024-06-26 225455](https://github.com/Shaileshssss/construction/assets/108980657/594f4549-37b0-49b5-84c3-81120c0310e6)
 
 ![Screenshot 2024-06-26 225526](https://github.com/Shaileshssss/construction/assets/108980657/99893ee2-91ee-4100-952d-0cba736dc1f6)
